@@ -1,4 +1,5 @@
-An AngularJS Birdwatching Dashboard Exercise
+# cikcikHane: Birdwatching Dashboard
+An AngularJS Dashboard Exercise
 
 # Resources used in this study:
 * HTML5
