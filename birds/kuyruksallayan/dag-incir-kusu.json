@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Anthus",
+  "tur": "A. spinoletta",
+  "binominal": 1758,
+  "description": "Diğer incir kuşlarından farksız olarak, görünümleri yerle aynı renkte, üst taraf kahverengi renkte ve alt taraf sarımsı koyu çizgilidir. Bacakları koyu renkli, dış kuyruk tüyleri beyaz, gagası uzun ve koyu renktedir. Yazları tüyler farklılaşır ve göğüs pembe, baş grimsi renk alır, kaş belirginliği soluklaşır.",
+  "id": "dag-incir-kusu",
+  "images": [
+    "img/kuyruksallayan/dag-incir-kusu/01-dag-incir-kusu.jpg",
+    "img/kuyruksallayan/dag-incir-kusu/02.JPG",
+    "img/kuyruksallayan/dag-incir-kusu/03.jpg",
+    "img/kuyruksallayan/dag-incir-kusu/04.jpg",
+    "img/kuyruksallayan/dag-incir-kusu/05.jpg",
+    "img/kuyruksallayan/dag-incir-kusu/06.jpg"
+  ],
+  "name": "Dağ incir kuşu"
+
+}

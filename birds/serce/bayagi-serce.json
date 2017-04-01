@@ -1,0 +1,20 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü Kuşlar)",
+  "familya": "Passeridae (Serçegiller)",
+  "cins": "Passer",
+  "tur": "P. domesticus",
+  "binominal": 1758,
+  "description": "Uzunluğu 14 cm, rengi uzaktan bakıldığında grimsi kahverengidir. Ama erkekler yakından bakıldığında oldukça canlı renkleri ile dikkat çeker. Tepelerinde kızıl kahverengi tüylerle sınırlanmış gri bir bölge, gerdan ve göğüslerinde siyah bir leke vardır. Siyah leke büyüdükçe serçenin saygınlığı artar. Dişiler ve gençlerin tüyleri daha soluk renkli, alt bölümleri ise lekesizdir.",
+  "id": "bayagi-serce",
+  "images": [
+    "img/serce/bayagi-serce/03-bayagi_serce.jpg",
+    "img/serce/bayagi-serce/03-01-bayagi_serce.jpg",
+    "img/serce/bayagi-serce/03-02-bayagi_serce.jpg",
+    "img/serce/bayagi-serce/03-03-bayagi_serce.jpg",
+    "img/serce/bayagi-serce/03-04-bayagi_serce.jpg"
+  ],
+  "name": "Bayağı serçe"
+}

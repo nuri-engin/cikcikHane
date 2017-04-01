@@ -1,0 +1,20 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Carduelis",
+    "tur": "C. cannabina",
+    "description": "Dişinin tüyleri kahverengi zemin üstüne koyu kahverengi çizgili, erkeğin sırtı kızıl kahverengi, üreme mevsiminde tepesi ve göğsü parlak kızıldır. Uzun kuyrukludurlar. 13 cm uzunluğunda olan ve çalılık bölgelerde yaşayan bu kuşlar kışın diğer kuş türleriyle karışık sürüler oluşturarak yem ararken, açık arazide de görülür. Çalılıklara yaptıkları yuvalarına 4-7 yumurta bırakırlar.",
+    "id": "keten-kusu",
+    "images": [
+        "img/ispinoz/keten-kusu/01.jpg",
+        "img/ispinoz/keten-kusu/02.jpg",
+        "img/ispinoz/keten-kusu/03.jpg",
+        "img/ispinoz/keten-kusu/04.jpg",
+        "img/ispinoz/keten-kusu/05.jpg",
+        "img/ispinoz/keten-kusu/06.jpg"
+    ],
+    "name": "Keten kuşu"
+}

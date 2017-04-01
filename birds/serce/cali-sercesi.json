@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü Kuşlar)",
+  "familya": "Passeridae (Serçegiller)",
+  "cins": "Passer",
+  "tur": "P. moabiticus",
+  "binominal": 1864,
+  "description": "Türkiye'de yaşayan öbür serçelerden daha küçük yapılı olan bu türün uzunluğu 12 cm'dir. Erkeklerin tepesi, ensesi, boyun yanları mavimsi gri rengi ile dikkat çeker.",
+  "id": "cali-sercesi",
+  "images": [
+    "img/serce/cali-serce/01-cali_serce.jpg",
+    "img/serce/cali-serce/02.JPG",
+    "img/serce/cali-serce/03.jpg",
+    "img/serce/cali-serce/04.jpg",
+    "img/serce/cali-serce/05.jpg",
+    "img/serce/cali-serce/06.jpg"
+  ],
+  "name": "Çalı serçesi"
+
+}

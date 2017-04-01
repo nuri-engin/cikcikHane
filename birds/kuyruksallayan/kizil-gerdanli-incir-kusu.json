@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Anthus",
+  "tur": "A. cervinus",
+  "binominal": 1811,
+  "description": "Bu küçük incir kuşu türü, yavrulama zamanlarında yüzündeki ve boynundaki kızıllıklar ile kolayca tanınır. Diğer tüyleri akrabalarından farksızdır; üst taraf beyazımsı çizgili koyu kahverengi, alt taraf beyaz zeminde siyah desenlidir.",
+  "id": "kizil-gerdanli-incir-kusu",
+  "images": [
+    "img/kuyruksallayan/kizil-gerdanli-incir-kusu/01-kizil-gerdanli-incir-kusu.jpg",
+    "img/kuyruksallayan/kizil-gerdanli-incir-kusu/02.JPG",
+    "img/kuyruksallayan/kizil-gerdanli-incir-kusu/03.jpg",
+    "img/kuyruksallayan/kizil-gerdanli-incir-kusu/04.jpg",
+    "img/kuyruksallayan/kizil-gerdanli-incir-kusu/05.jpg",
+    "img/kuyruksallayan/kizil-gerdanli-incir-kusu/06.jpg"
+  ],
+  "name": "Kızıl gerdanlı incir kuşu"
+
+}

@@ -1,0 +1,20 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Serinus",
+    "tur": "S. syriacus",
+    "description": "Parlak sarı ve soluk gri tüylerle güzelce renklidir. Gözler büyüktür, ve parlak sarı bir halkayla kuşatılmıştır. Gaga gri ve bacaklar soluk pembemsi gri renktedir.",
+    "id": "suriye-kanaryasi",
+    "images": [
+        "img/ispinoz/suriye-kanaryasi/01.jpg",
+        "img/ispinoz/suriye-kanaryasi/02.jpg",
+        "img/ispinoz/suriye-kanaryasi/03.jpg",
+        "img/ispinoz/suriye-kanaryasi/04.jpg",
+        "img/ispinoz/suriye-kanaryasi/05.jpg",
+        "img/ispinoz/suriye-kanaryasi/06.jpg"
+    ],
+    "name": "Suriye kanaryası"
+}

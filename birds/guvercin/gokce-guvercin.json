@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Columbiformes (Güvercinler)",
+  "familya": "Columbidae (Güvercingiller)",
+  "cins": "Columba",
+  "tur": "C. oenas",
+  "binominal": 1758,
+  "description": "Avrupa ve batı Asya sahasının kuzey kısmında yaşayan gökçe güvercin göçmendir, başka yerlerde dağılmış ve çoğunlukla yerleşiktirler. Üç batı Avrupalı Columba güvercininin, görünüşte aynı şekilde olmasına rağmen, çok ayırıcı karakteri var. Tahtalı hemen, (Erişkinlerde) boynunda ve kanatlarında beyaz ile söylenebilir.",
+  "id": "gokce-guvercin",
+  "images": [
+    "img/guvercin/gokce-guvercin/02-gokce.jpg",
+    "img/guvercin/gokce-guvercin/02.JPG",
+    "img/guvercin/gokce-guvercin/03.jpg",
+    "img/guvercin/gokce-guvercin/04.jpg",
+    "img/guvercin/gokce-guvercin/05.jpg",
+    "img/guvercin/gokce-guvercin/06.jpg"
+  ],
+  "name": "Gökçe güvercin"
+
+}

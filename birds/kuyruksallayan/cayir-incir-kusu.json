@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Anthus",
+  "tur": "A. pratensis",
+  "binominal": 1758,
+  "description": "Dünya genelinde oldukça yaygın ve tehlike altında bulunmayan bir türdür. Toprak üzerindeyken bakıldığından çoğu zaman ayırt edilemez bir durumdadır. Tüyleri sırt bölümlerinde büyük ölçüde kahve, karın bölgesinde ise devetüyü renktedir. Tüylerinin renkleri uçlarda bir miktar daha koyulaşır. Açık pembe ince ayakları ve gagası vardır.",
+  "id": "cayir-incir-kusu",
+  "images": [
+    "img/kuyruksallayan/cayir-incir-kusu/01-cayir-incir-kusu.jpg",
+    "img/kuyruksallayan/cayir-incir-kusu/02.JPG",
+    "img/kuyruksallayan/cayir-incir-kusu/03.jpg",
+    "img/kuyruksallayan/cayir-incir-kusu/04.jpg",
+    "img/kuyruksallayan/cayir-incir-kusu/05.jpg",
+    "img/kuyruksallayan/cayir-incir-kusu/06.jpg"
+  ],
+  "name": "Richard incir kuşu"
+
+}

@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Anthus",
+  "tur": "A. trivialis",
+  "binominal": 1758,
+  "description": "Küçük, çayır incir kuşuna benzer bir kuştur. Üst tarafı kahverengi çizgili, alt tarafta karın ve göğüs beyaz üzerine siyah izler taşır. Çayır incir kuşuna göre daha kalın bir gagası ve alt tarafında göğüs sarılığı ve beyaz karın kısmı arasında daha büyük bir açıklığı vardır. Ağaç incir kuşları çoğunlukla ağaçlardaki tüneklerinde bulunurlar.",
+  "id": "agac-incir-kusu",
+  "images": [
+    "img/kuyruksallayan/agac-incir-kusu/03-agac_incir.jpg",
+    "img/kuyruksallayan/agac-incir-kusu/02.JPG",
+    "img/kuyruksallayan/agac-incir-kusu/03.jpg",
+    "img/kuyruksallayan/agac-incir-kusu/04.jpg",
+    "img/kuyruksallayan/agac-incir-kusu/05.jpg",
+    "img/kuyruksallayan/agac-incir-kusu/06.jpg"
+  ],
+  "name": "Ağaç incir kuşu"
+
+}

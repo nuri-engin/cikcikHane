@@ -1,0 +1,79 @@
+[
+  {
+    "binominal": 1758,
+    "id": "bayagi-ispinoz",
+    "imageUrl": "img/ispinoz/bayagi-ispinoz/01.jpg",
+    "name": "Bayağı İspinoz",
+    "snippet": "Bayağı ispinoz (Fringilla coelebs), ispinozgiller (Fringillidae) familyasından ötücü bir kuş türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "dag-ispinozu",
+    "imageUrl": "img/ispinoz/dag-ispinozu/01.jpg",
+    "name": "Dağ İspinozu",
+    "snippet": "Dağ ispinozu (Fringilla montifringilla), ispinozgiller (Fringillidae) familyasından bir ispinoz türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "florya",
+    "imageUrl": "img/ispinoz/florya/01.jpg",
+    "name": "Florya",
+    "snippet": "Florya (Carduelis chloris), ispinozgiller (Fringillidae) familyasından ötücü bir kuş türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "saka-kusu",
+    "imageUrl": "img/ispinoz/saka-kusu/01.jpg",
+    "name": "Saka kuşu",
+    "snippet": "Saka kuşu (Carduelis carduelis), ispinozgiller (Fringillidae) familyasından kafeslerde çok beslenen ötücü bir kuş türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "kara-basli-iskete",
+    "imageUrl": "img/ispinoz/kara-basli-iskete/01.jpg",
+    "name": "Kara başlı iskete",
+    "snippet": "Kara başlı iskete (Carduelis spinus), ispinozgiller (Fringillidae) familyasından, yarı göçmen bir ötücü kuş türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "keten-kusu",
+    "imageUrl": "img/ispinoz/keten-kusu/01.jpg",
+    "name": "Keten kuşu",
+    "snippet": "Keten kuşu (Carduelis cannabina), ispinozgiller (Fringillidae) familyasından ötücü bir kuş türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "sari-gagali-keten-kusu",
+    "imageUrl": "img/ispinoz/sari-gagali-keten-kusu/01.jpg",
+    "name": "Sarı gagalı keten kuşu",
+    "snippet": "Sarı gagalı keten kuşu (Carduelis flavirostris), ispinozgiller (Fringillidae) familyasından bir kuş türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "kuzey-keten-kusu",
+    "imageUrl": "img/ispinoz/kuzey-keten-kusu/01.jpg",
+    "name": "Kuzey keten kuşu",
+    "snippet": "Kuzey keten kuşu (Carduelis flammea), ispinozgiller (Fringillidae) familyasından ötücü bir kuş türü."
+  },
+  {
+    "binominal": 1764,
+    "id": "alp-isketesi",
+    "imageUrl": "img/ispinoz/alp-isketesi/01.jpg",
+    "name": "Alp isketesi",
+    "snippet": "Alp isketesi (Carduelis citrinella), ispinozgiller (Fringillidae) familyasına ait küçük bir kuş türü."
+  },
+  {
+    "binominal": 1838,
+    "id": "alamecek",
+    "imageUrl": "img/ispinoz/alamecek/01.jpg",
+    "name": "Alamecek",
+    "snippet": "Alamecek (Rhodopechys sanguinea), ispinozgiller (Fringillidae) familyasından Türkiye'de bulunan soluk renkli bir kuş türü."
+  },
+  {
+    "binominal": 1851,
+    "id": "suriye-kanaryasi",
+    "imageUrl": "img/ispinoz/suriye-kanaryasi/01.jpg",
+    "name": "Suriye kanaryası",
+    "snippet": "Suriye kanaryası (Serinus syriacus ), ispinozgiller (Fringillidae) familyasından bir kuş türü."
+  }
+]

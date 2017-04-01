@@ -1,0 +1,20 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Carduelis",
+    "tur": "R. sanguinea",
+    "description": "Ortalama kanat açıklığı 32 cm'dir. Sırtı açık kahverengi, karnı soluk sarı ve her iki kanadı pembe çizgilidir. Rhodopechys cinsinin diğer türlerinden başının siyah renkli oluşu ile ayrılır. Dağlık, kayalık yerlerde yaşar. Tohum yer ve kışın tarım alanlarında sıkça görülür. Dişi yuvaya 4-5 mavi hafif çizgili yumurta bırakır.",
+    "id": "alamecek",
+    "images": [
+        "img/ispinoz/alamecek/01.jpg",
+        "img/ispinoz/alamecek/02.jpg",
+        "img/ispinoz/alamecek/03.jpg",
+        "img/ispinoz/alamecek/04.jpg",
+        "img/ispinoz/alamecek/05.jpg",
+        "img/ispinoz/alamecek/06.jpg"
+    ],
+    "name": "Alamecek"
+}

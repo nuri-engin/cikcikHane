@@ -1,0 +1,20 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Carduelis",
+    "tur": "C. flavirostris",
+    "description": "Genç kuşların kanat ve kuyruğunda beyaz paneller dikkat çeker. Bütün vücudu saran uzun siyah çizgili sarımsı kahverengi tüyleri ile pembe bir butu vardır. Koni biçimindeki gagası kışın sarı yazın ise gri renklidir.",
+    "id": "sari-gagali-keten-kusu",
+    "images": [
+        "img/ispinoz/sari-gagali-keten-kusu/01.jpg",
+        "img/ispinoz/sari-gagali-keten-kusu/02.jpg",
+        "img/ispinoz/sari-gagali-keten-kusu/03.jpg",
+        "img/ispinoz/sari-gagali-keten-kusu/04.jpg",
+        "img/ispinoz/sari-gagali-keten-kusu/05.jpg",
+        "img/ispinoz/sari-gagali-keten-kusu/06.jpg"
+    ],
+    "name": "Sarı gagalı keten kuşu"
+}

@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Anthus",
+  "tur": "A.campestris",
+  "binominal": 1758,
+  "description": "Genellikle Avrupa ve Asya'nın ılıman kesimlerinde ve kuzeybatı Afrika'da yerleşim gösterirler. Kışları tropikal Afrika'ya ve Hindistan'a göç ederler. İri bir kuştur, 16,5–18 cm uzunluğunda, diğer akrabalarından farksız olarak yerle aynı renkte, üst taraf kumsu kahverengi, alt tarafı solgundur. Görünümü mahmuzlu incir kuşuna benzerdir, fakat daha küçük boyu, kısa bacakları ve kısa, koyu renkli gagasıyla ondan ayrılır.",
+  "id": "kir-incir-kusu",
+  "images": [
+    "img/kuyruksallayan/kir-incir-kusu/02-kir_incir.jpg",
+    "img/kuyruksallayan/kir-incir-kusu/02.JPG",
+    "img/kuyruksallayan/kir-incir-kusu/03.jpg",
+    "img/kuyruksallayan/kir-incir-kusu/04.jpg",
+    "img/kuyruksallayan/kir-incir-kusu/05.jpg",
+    "img/kuyruksallayan/kir-incir-kusu/06.jpg"
+  ],
+  "name": "Kır incir kuşu"
+
+}

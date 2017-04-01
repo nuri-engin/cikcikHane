@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü Kuşlar)",
+  "familya": "Passeridae (Serçegiller)",
+  "cins": "Passer",
+  "tur": "P. montanus",
+  "binominal": 1864,
+  "description": "Orman serçesi ya da dağ serçesi de denir. Doğal olarak bulunduğu bölgenin dışında bulunan bazı bölgelere de sokulmuş bir kuş türüdür. Birbirine benzeyen erkek ve dişinin tepesi ve ensesi kızıl kahverengi, göğsündeki siyah leke küçüktür. Ayrıca beyaz yanaklarında da birer siyah benek bulunur. Alt türleri arasında farklılık çok azdır.",
+  "id": "agac-sercesi",
+  "images": [
+    "img/serce/agac-sercesi/01-agac-sercesi.jpg",
+    "img/serce/agac-sercesi/02.JPG",
+    "img/serce/agac-sercesi/03.jpg",
+    "img/serce/agac-sercesi/04.jpg",
+    "img/serce/agac-sercesi/05.jpg",
+    "img/serce/agac-sercesi/06.jpg"
+  ],
+  "name": "Ağaç serçesi"
+
+}

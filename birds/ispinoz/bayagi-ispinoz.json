@@ -1,0 +1,19 @@
+{
+    "alem": "Animalia (Hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Fringilla",
+    "tur": "F. coelebs",
+    "description": "Uzunlukları yaklaşık 15 cm, erkeklerin gaga üstü siyah, tepesi, ense ve boyun yanları mavimsi bozdur. Sırtı pas renginde, kuyruksokumu yeşil, kuyruğunun kenar tüyleri beyaz, kanatları siyah ve beyaz çizgilidir. Dişiler ve yavrular daha soluk, kahverengimsi boz renkleri ile ayırt edilir.",
+    "id": "bayagi-ispinoz",
+    "images": [
+        "img/ispinoz/bayagi-ispinoz/01.jpg",
+        "img/ispinoz/bayagi-ispinoz/02.jpg",
+        "img/ispinoz/bayagi-ispinoz/03.jpg",
+        "img/ispinoz/bayagi-ispinoz/04.jpg",
+        "img/ispinoz/bayagi-ispinoz/05.jpg"
+    ],
+    "name": "Bayağı İspinoz"
+}

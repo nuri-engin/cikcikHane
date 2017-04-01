@@ -1,0 +1,21 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü Kuşlar)",
+  "familya": "Passeridae (Serçegiller)",
+  "cins": "Passer",
+  "tur": "P. hispaniolensis",
+  "binominal": 1820,
+  "description": "Palearktik, Etiyopyen ve Oryantal bölgelerde yaşar. Ama Avrupa'da yalnız İber Yarımadasında ve Balkalar'da görülür. Türkiye'de ise akarsu vadilerinde, çalılıklarda ve açık alanlarda yaşar.",
+  "id": "sogut-sercesi",
+  "images": [
+    "img/serce/sogut-serce/02-sogut_serce.jpg",
+    "img/serce/sogut-serce/02-01.JPG",
+    "img/serce/sogut-serce/02-02.jpg",
+    "img/serce/sogut-serce/02-03.jpg",
+    "img/serce/sogut-serce/02-04.jpg",
+    "img/serce/sogut-serce/02-05.jpg"
+  ],
+  "name": "Söğüt serçesi"
+}

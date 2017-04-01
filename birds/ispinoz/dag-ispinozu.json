@@ -1,0 +1,19 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Fringilla",
+    "tur": "F. montifringilla",
+    "description": "Bayağı ispinoz büyüklüğünde bir kuştur. Soluk butlu olup dıştaki kuyruk tüyleri beyazdır. Göğsü turuncu ve karnı beyazımsıdır. Kanatlar beyaz ve turuncu çizgilidir. Erkeklerin dişilerden farklı olarak baş ve sırt kısmı koyu siyahtır. Dişilerde bu bölümler soluk gridir.",
+    "id": "dag-ispinozu",
+    "images": [
+        "img/ispinoz/dag-ispinozu/01.jpg",
+        "img/ispinoz/dag-ispinozu/02.jpg",
+        "img/ispinoz/dag-ispinozu/03.jpg",
+        "img/ispinoz/dag-ispinozu/04.jpg",
+        "img/ispinoz/dag-ispinozu/05.jpg"
+    ],
+    "name": "Dağ İspinozu"
+}

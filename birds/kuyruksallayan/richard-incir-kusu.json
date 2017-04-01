@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Anthus",
+  "tur": "A. richardi",
+  "binominal": 1818,
+  "description": "Yetişkin bir Richard incir kuşunun boyu 17–20 cm olup, diğer yandan sıradan görünümü olan türün genelde üst kısmı kahverengi, alt kısmı ise soluktur. Bacakları ve kuyruğu uzun olup, koyu gagası yine uzundur. Sıklıkla çok dik vaziyette durur. Düz ve güçlü uçuşu vardır.",
+  "id": "richard-incir-kusu",
+  "images": [
+    "img/kuyruksallayan/richard-incir-kusu/01-richard_incir.jpg",
+    "img/kuyruksallayan/richard-incir-kusu/02.JPG",
+    "img/kuyruksallayan/richard-incir-kusu/03.jpg",
+    "img/kuyruksallayan/richard-incir-kusu/04.jpg",
+    "img/kuyruksallayan/richard-incir-kusu/05.jpg",
+    "img/kuyruksallayan/richard-incir-kusu/06.jpg"
+  ],
+  "name": "Richard incir kuşu"
+
+}

@@ -1,0 +1,20 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Carduelis",
+    "tur": "C. flammea",
+    "description": "Kuzey keten kuşu 12–14 cm uzunluğuna varır, ve 13–17 cm kanat genişliğine sahip olabilir. Ağırlığı 13-16 gramdır. Bu küçük kuşun üst kısımı gri ve kahverengi çizgili, karın kısmı beyaz renklidir. Kafasının üstü kırmızı renk olur. Yavru kuşların ve dişilerin, erkek kuşlarda olduğu gibi pembe renk bir göğsü yoktur. Uçarken Çet-çet-çet.. diye bir ötüşü vardır.",
+    "id": "kuzey-keten-kusu",
+    "images": [
+        "img/ispinoz/kuzey-keten-kusu/01.jpg",
+        "img/ispinoz/kuzey-keten-kusu/02.jpg",
+        "img/ispinoz/kuzey-keten-kusu/03.jpg",
+        "img/ispinoz/kuzey-keten-kusu/04.jpg",
+        "img/ispinoz/kuzey-keten-kusu/05.jpg",
+        "img/ispinoz/kuzey-keten-kusu/06.jpg"
+    ],
+    "name": "Kuzey keten kuşu"
+}

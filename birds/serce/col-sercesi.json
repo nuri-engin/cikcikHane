@@ -1,0 +1,21 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü Kuşlar)",
+  "familya": "Passeridae (Serçegiller)",
+  "cins": "Passer",
+  "tur": "C. brachydactyla",
+  "binominal": 1850,
+  "description": "Yazın Türkiye'nin Doğu ve Güneydoğu Anadolu bölgelerinde kuluçkaya yatan göçmen kuşlar arasında yer alır. Bayağı serçenin dişisine benzerler. Kuyruklarının ucunda beyaz benekler bulunur.",
+  "id": "col-sercesi",
+  "images": [
+    "img/serce/col-sercesi/01-col-sercesi.jpg",
+    "img/serce/col-sercesi/02.JPG",
+    "img/serce/col-sercesi/03.jpg",
+    "img/serce/col-sercesi/04.jpg",
+    "img/serce/col-sercesi/05.jpg",
+    "img/serce/col-sercesi/06.jpg"
+  ],
+  "name": "Çöl serçesi"
+}

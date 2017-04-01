@@ -1,0 +1,58 @@
+[
+  {
+    "binominal": 1789,
+    "id": "kaya-guvercini",
+    "imageUrl": "img/guvercin/kaya-guvercini/01-kaya.jpg",
+    "name": "Kaya güvercini",
+    "snippet": "Kaya güvercini (Columba livia), güvercingiller (Columbidae) familyasından gagası ince ve gaga dibinde beyaz renkli minik bir leke bulunan yabani güvercin türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "gokce-guvercin",
+    "imageUrl": "img/guvercin/gokce-guvercin/02-gokce.jpg",
+    "name": "Gökçe güvercin",
+    "snippet": "Gökçe güvercin (Columba oenas), güvercingiller (Columbidae) familyasından bir güvercin türü. Avrupa ve batı Asya sahasının kuzey kısmında yaşayan gökçe güvercin göçmendir, başka yerlerde dağılmış ve çoğunlukla yerleşiktirler."
+  },
+  {
+    "binominal": 1758,
+    "id": "tahtalı",
+    "imageUrl": "img/guvercin/tahtali/03-tahtali.jpg",
+    "name": "Tahtalı",
+    "snippet": "Tahtalı (Columba palumbus), güvercingiller (Columbidae) familyasından uzun kanatlı, uzun kuyruklu, iri ve güzel bir güvercin türü. Eskiden kuskuğuk diye adlandırıldı."
+  },
+  {
+    "binominal": 1838,
+    "id": "kumru",
+    "imageUrl": "img/guvercin/kumru/01-kumru.jpg",
+    "name": "Kumru",
+    "snippet": "Kumru, güvercingiller (Columbidae) familyasından park, bahçe ve ufak koruluklarda çiftler halinde yaşayan güvercine benzer bazı kuş türlerinin ortak adı."
+  },
+  {
+    "binominal": 1758,
+    "id": "uveyik",
+    "imageUrl": "img/guvercin/uveyik/01-uveyik.jpg",
+    "name": "Üveyik",
+    "snippet": "Üveyik (Streptopelia turtur), güvercingiller (Columbidae) familyasından eti için avlanan bir av kuşu türü."
+  },
+  {
+    "binominal": 1766,
+    "id": "kucuk-kumru",
+    "imageUrl": "img/guvercin/kucuk-kumru/01-kucuk-kumru.jpg",
+    "name": "Küçük kumru",
+    "snippet": "Küçük kumru (Streptopelia senegalensis), güvercingiller (Columbidae) familyasından bir kuş türü."
+  },
+  {
+    "binominal": 1790,
+    "id": "buyuk-uveyik",
+    "imageUrl": "img/guvercin/buyuk-uveyik/01-buyuk-uveyik.jpg",
+    "name": "Büyük üveyik",
+    "snippet": "Büyük üveyik (Streptopelia orientalis), güvercingiller (Columbidae) familyasından bir güvercin türü."
+  },
+  {
+    "binominal": 1766,
+    "id": "kap-kumrusu",
+    "imageUrl": "img/guvercin/kap-kumrusu/01-kap-kumrusu.jpg",
+    "name": "Kap kumrusu",
+    "snippet": "Kap kumrusu (Oena capensis), güvercingiller (Columbidae) familyasından bir güvercin türü."
+  }
+]

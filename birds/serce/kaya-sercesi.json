@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü Kuşlar)",
+  "familya": "Passeridae (Serçegiller)",
+  "cins": "Passer",
+  "tur": "P. petronia",
+  "binominal": 1766,
+  "description": "Avrupa ve Asya'nın güney kesimleri ile Kuzey Afrika'da yaşar. Türkiye'nin hemen her yerinde görülür. Yaşama ortamı genellikle kayalık yerlerdir. Bazen yuvası yıkıntılar arasında, küçük yerleşim birimlerinde ve ekili alanlardaki ağaç kovuklarında bulunur.Bu türün erkek ve dişisi bayağı serçenin dişisine benzer. Ama tepelerinde grimsi kahverengi, bunun yanlarında daha koyu renkli birer bant vardır.",
+  "id": "kaya-sercesi",
+  "images": [
+    "img/serce/kaya-sercesi/01-kaya-sercesi.jpg",
+    "img/serce/kaya-sercesi/02.JPG",
+    "img/serce/kaya-sercesi/03.jpg",
+    "img/serce/kaya-sercesi/04.jpg",
+    "img/serce/kaya-sercesi/05.jpg",
+    "img/serce/kaya-sercesi/06.jpg"
+  ],
+  "name": "Kaya serçesi"
+
+}

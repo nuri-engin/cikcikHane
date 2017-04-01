@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Motacilla (Kuyruksallayan)",
+  "tur": "M. citreola",
+  "binominal": 1776,
+  "description": "Zayıf, ince, 15,5-17 cm boyunda, karakteristik uzun kuyruklu bir kuştur. Üreme mevsiminde erkeklerin üst tarafı grimsi ve parlak sarı renkli, başı sarıdır. Diğer tüyler, alt tarafta sarımsı-beyaz ve baş kahvemsidir. Yuvasını yere yapar, yumurta sayısı 4 ya da 5'dir. Böcekçil, suya yakın olarak yaşayan bir kuştur.",
+  "id": "sari-basli-kuyruksallayan",
+  "images": [
+    "img/kuyruksallayan/sari-basli-kuyruksallayan/01-sari-basli-kuyruksallayan.jpg",
+    "img/kuyruksallayan/sari-basli-kuyruksallayan/02.JPG",
+    "img/kuyruksallayan/sari-basli-kuyruksallayan/03.jpg",
+    "img/kuyruksallayan/sari-basli-kuyruksallayan/04.jpg",
+    "img/kuyruksallayan/sari-basli-kuyruksallayan/05.jpg",
+    "img/kuyruksallayan/sari-basli-kuyruksallayan/06.jpg"
+  ],
+  "name": "Sarı başlı kuyruksallayan"
+
+}

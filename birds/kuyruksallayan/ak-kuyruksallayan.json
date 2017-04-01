@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Motacilla (Kuyruksallayan)",
+  "tur": "M. alba",
+  "binominal": 1758,
+  "description": "İnce, zayıf bir kuştur. Boy 18 cm dir. Siyah beyaz başı, siyah göğsü, gri sırtı ve kararkteristik uzun kuyruğuyla tanınır. Dişi biraz daha soluk renklidir. Kuyruğu siyah, kuyruk dış telekleri beyazdır. Böcekçildir. Yuvasını taş duvar çatlaklarına ve insan eliyle yapılmış doğaya benzer nitelikteki yerlere yapar.",
+  "id": "ak-kuyruksallayan",
+  "images": [
+    "img/kuyruksallayan/ak-kuyruksallayan/01-ak-kuyruksallayan.jpg",
+    "img/kuyruksallayan/ak-kuyruksallayan/02.JPG",
+    "img/kuyruksallayan/ak-kuyruksallayan/03.jpg",
+    "img/kuyruksallayan/ak-kuyruksallayan/04.jpg",
+    "img/kuyruksallayan/ak-kuyruksallayan/05.jpg",
+    "img/kuyruksallayan/ak-kuyruksallayan/06.jpg"
+  ],
+  "name": "Ak kuyruksallayan"
+
+}

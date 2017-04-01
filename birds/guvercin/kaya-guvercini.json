@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Columbiformes (Güvercinler)",
+  "familya": "Columbidae (Güvercingiller)",
+  "cins": "Columba",
+  "tur": "C. livia",
+  "binominal": 1789,
+  "description": "Evcil çeşidinin gagası kalındır, gaga dibindeki leke büyük ve açık renklidir. Yabanıl türün rengi mavi-gridir, boynunda yeşil ve mor parlaklık vardır, ensesi koyudur. Kanadını çaprazlayan siyah renkli iki geniş bant vardır. Kuyruksokumu ve kanat altı beyazdır. Evcil olanlar ve şehir güvercinleri çok değişiktirler, genellikle çeşitli renklerde olurlar. Boğuk ve ısrarlı bir ötüşü (guu-ruuu) vardır.",
+  "id": "kaya-guvercini",
+  "images": [
+    "img/guvercin/kaya-guvercini/01-kaya.jpg",
+    "img/guvercin/kaya-guvercini/02.JPG",
+    "img/guvercin/kaya-guvercini/03.jpg",
+    "img/guvercin/kaya-guvercini/04.jpg",
+    "img/guvercin/kaya-guvercini/05.jpg",
+    "img/guvercin/kaya-guvercini/06.jpg"
+  ],
+  "name": "Kaya güvercini"
+
+}

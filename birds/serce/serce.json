@@ -1,0 +1,58 @@
+[
+  {
+    "binominal": 1864,
+    "id": "cali-sercesi",
+    "imageUrl": "img/serce/cali-serce/01-cali_serce.jpg",
+    "name": "Çalı serçesi",
+    "snippet": "Çalı serçesi (Passer moabiticus), serçegiller (Passeridae) familyasından Türkiyenin yalnız Adana, Hatay ve Gaziantep illerinin sınırları içinde kalan küçük bir bölgede üreyen serçe türü."
+  },
+  {
+    "binominal": 1820,
+    "id": "sogut-sercesi",
+    "imageUrl": "img/serce/sogut-serce/02-sogut_serce.jpg",
+    "name": "Söğüt serçesi",
+    "snippet": "Söğüt serçesi (Passer hispaniolensis), serçegiller (Passeridae) familyasından bir serçe türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "bayagi-serce",
+    "imageUrl": "img/serce/bayagi-serce/03-bayagi_serce.jpg",
+    "name": "Bayağı serçe",
+    "snippet": "Bayağı serçe (Passer domesticus), serçegiller (Passeridae) familyasından coğrafi dağılımı çok geniş olan en yaygın ve en iyi tanınan serçe türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "agac-sercesi",
+    "imageUrl": "img/serce/agac-sercesi/01-agac-sercesi.jpg",
+    "name": "Ağaç serçesi",
+    "snippet": "Ağaç serçesi (Passer montanus), serçegiller (Passeridae) familyasından Avrasya ve Güneydoğu Asya'nın ılıman çoğu bölgesinde üreyen bir serçe türü."
+  },
+  {
+    "binominal": 1850,
+    "id": "col-sercesi",
+    "imageUrl": "img/serce/col-sercesi/01-col-sercesi.jpg",
+    "name": "Çöl serçesi",
+    "snippet": "Çöl serçesi (Carpospiza brachydactyla), serçegiller (Passeridae) familyasından bir serçe türü."
+  },
+  {
+    "binominal": 1838,
+    "id": "sari-gerdanli-serce",
+    "imageUrl": "img/serce/sari-gerdanli-serce/01-sari-gerdanli-serce.jpg",
+    "name": "Sarı gerdanlı serçe",
+    "snippet": "Sarı gerdanlı serçe (Petronia xanthocollis), serçegiller (Passeridae) familyasından bir serçe türü."
+  },
+  {
+    "binominal": 1766,
+    "id": "kaya-sercesi",
+    "imageUrl": "img/serce/kaya-sercesi/01-kaya-sercesi.jpg",
+    "name": "Kaya serçesi",
+    "snippet": "Kaya serçesi (Petronia petronia), serçegiller (Passeridae) familyasından bir serçe türü."
+  },
+  {
+    "binominal": 1828,
+    "id": "kar-sercesi",
+    "imageUrl": "img/serce/kar-sercesi/01-kar-sercesi.jpg",
+    "name": "Kar serçesi",
+    "snippet": "Kar serçesi, serçegiller (Passeridae) famiyasından Montifringilla cinsini oluşturan kuş türlerine verilen ad."
+  }
+]

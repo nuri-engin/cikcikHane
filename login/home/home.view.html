@@ -1,0 +1,12 @@
+﻿<h1>Merhaba {{vm.user.firstName}}!</h1>
+<p><small>Pano'ya otomatik olarak yönlendirileceksin, uzun sürerse <a href="pano.html">burayı tıkla!</a></small></p>
+<hr />
+<h4>Tüm kayıtlı kullanıcılar:</h4>
+<ul>
+    <li ng-repeat="user in vm.allUsers">
+        {{user.username}} ({{user.firstName}} {{user.lastName}})
+        - <a ng-click="vm.deleteUser(user.id)">Sil</a>
+    </li>
+</ul>
+<p>&nbsp;</p>
+<p><a href="#!/login" class="btn btn-primary">Çıkış Yap</a></p>

@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Columbiformes (Güvercinler)",
+  "familya": "Columbidae (Güvercingiller)",
+  "cins": "Columba",
+  "tur": "C. palumbus",
+  "binominal": 1758,
+  "description": "Başı küçük ve yuvarlak, gövdesi iri ve geniştir. Başı mavi-gri, sırtı mat gri, kuyruk sokumu açık renktir; kuyruğunun ucu koyu, orta bandı açık renktir. Göğsü koyu pembedir ve iyi ışıkta parlak görünür. Boynunda geniş ve beyaz bir leke vardır, kanatları kapalı iken kenarı boyunca uzanan beyazlık gözler önüne serilir. Uçuş sırasında beyaz kanat şeridi dikkati çeker. Bacakları açık pembedir. Parlak kırmızı ve sarı renkli yakından çok dikkat çekicidir.",
+  "id": "tahtali",
+  "images": [
+    "img/guvercin/tahtali/03-tahtali.jpg",
+    "img/guvercin/tahtali/02.JPG",
+    "img/guvercin/tahtali/03.jpg",
+    "img/guvercin/tahtali/04.jpg",
+    "img/guvercin/tahtali/05.jpg",
+    "img/guvercin/tahtali/06.jpg"
+  ],
+  "name": "Tahtalı"
+
+}

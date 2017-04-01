@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü Kuşlar)",
+  "familya": "Passeridae (Serçegiller)",
+  "cins": "Passer",
+  "tur": "P. xanthocollis",
+  "binominal": 1838,
+  "description": "Boyu yaklaşık 12 cm.'dir. Başında çizgi bulunmaz. Kanatta kırmızı kahverenggi omuz beneği ve iki açık renkli bant bulunur. Gaga siyahtır. Dişiler daha mat renklidir. Besinleri tohumlardır. Göçmen kuşlardır. Kulukça süreleri 12 gün, yavruların uçma süresi 16 gündür. Ötüşleri çip çip çiyok çiyok şeklindedir.",
+  "id": "sari-gerdanli-serce",
+  "images": [
+    "img/serce/sari-gerdanli-serce/01-sari-gerdanli-serce.jpg",
+    "img/serce/sari-gerdanli-serce/02.JPG",
+    "img/serce/sari-gerdanli-serce/03.jpg",
+    "img/serce/sari-gerdanli-serce/04.jpg",
+    "img/serce/sari-gerdanli-serce/05.jpg",
+    "img/serce/sari-gerdanli-serce/06.jpg"
+  ],
+  "name": "Sarı gerdanlı serçe"
+
+}

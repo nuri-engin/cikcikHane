@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü Kuşlar)",
+  "familya": "Passeridae (Serçegiller)",
+  "cins": "Passer",
+  "tur": "Montifringilla",
+  "binominal": 1828,
+  "description": "Kar serçesi, serçegiller (Passeridae) famiyasından Montifringilla cinsini oluşturan kuş türlerine verilen ad.",
+  "id": "kar-sercesi",
+  "images": [
+    "img/serce/kar-sercesi/01-kar-sercesi.jpg",
+    "img/serce/kar-sercesi/02.JPG",
+    "img/serce/kar-sercesi/03.jpg",
+    "img/serce/kar-sercesi/04.jpg",
+    "img/serce/kar-sercesi/05.jpg",
+    "img/serce/kar-sercesi/06.jpg"
+  ],
+  "name": "Kar serçesi"
+
+}

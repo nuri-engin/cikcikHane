@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Columbiformes (Güvercinler)",
+  "familya": "Columbidae (Güvercingiller)",
+  "cins": "Streptopelia",
+  "tur": "S. orientalis",
+  "binominal": 1790,
+  "description": "Merkezi Sibirya'da taigada yaşayan S.o. orientalis, ve merkezi Asya'da açık ormanlık bölgede S.o. meena olmak üzere iki ayrı formu vardır. İki beyaz yumurta bir ağaç sürgünündeki yuvaya koyulur. En güneydeki popülasyonlar yerleşiktirler ama diğer kuşlar kışın güneye, Hindistan, güneydoğu Asya ve güney Japonya'ya göç ederler.",
+  "id": "buyuk-uveyik",
+  "images": [
+    "img/guvercin/buyuk-uveyik/01-buyuk-uveyik.jpg",
+    "img/guvercin/buyuk-uveyik/02.JPG",
+    "img/guvercin/buyuk-uveyik/03.jpg",
+    "img/guvercin/buyuk-uveyik/04.jpg",
+    "img/guvercin/buyuk-uveyik/05.jpg",
+    "img/guvercin/buyuk-uveyik/06.jpg"
+  ],
+  "name": "Büyük üveyik"
+
+}

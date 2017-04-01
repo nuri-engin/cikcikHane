@@ -1,0 +1,20 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Carduelis",
+    "tur": "C. spinus",
+    "description": "Türkçe iskete kelimesi, bu kuşa Rumca'da verilen σκαθί (Eski Yunanca: σκανθίον) adından gelir. Selanik ve Pylaia bölgesinde, karabaşlı iskete Carduelis spinus; σκαθί ya da diminitifi olan σκαθάκι biçimde, fakat diğer bölgelerde λούγαρο diye anılır. Eski Yunanca σκανθίον, ilk olarak Περὶ διαφορᾶς τροφῶν πρὸς Πτολεμαῖον {0751.004} adında, eskiden yanlışlıkla Hippokrates'e atfedilmiş bir tıp kitabının 484. sayfa, 14. satırında serçelerle beraber geçer.",
+    "id": "kara-basli-iskete",
+    "images": [
+        "img/ispinoz/kara-basli-iskete/01.jpg",
+        "img/ispinoz/kara-basli-iskete/02.jpg",
+        "img/ispinoz/kara-basli-iskete/03.jpg",
+        "img/ispinoz/kara-basli-iskete/04.jpg",
+        "img/ispinoz/kara-basli-iskete/05.jpg",
+        "img/ispinoz/kara-basli-iskete/06.jpg"
+    ],
+    "name": "Kara başlı iskete"
+}

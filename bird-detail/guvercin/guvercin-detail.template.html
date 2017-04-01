@@ -1,0 +1,63 @@
+<div class="bird-images">
+  <img ng-src="{{img}}" class="bird"
+       ng-class="{selected: img === $ctrl.mainImageUrl}"
+       ng-repeat="img in $ctrl.bird.images" />  
+</div>
+
+<h3>{{$ctrl.bird.name}}</h3>
+
+<p>{{$ctrl.bird.description}}</p>
+
+<ul class="bird-thumbs">
+  <li ng-repeat="img in $ctrl.bird.images">
+    <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" />
+  </li>
+</ul>
+
+<ul class="specs">
+  <li>
+    <span><u>Bilimsel Sınıflandırma</u></span>
+  </li>
+  <li>
+    <span>Alem</span>
+    <dl>
+      <dt><dd>{{$ctrl.bird.alem}}</dd></dt>
+    </dl>
+  </li>
+  <li>
+    <span>Şube</span>
+    <dl>
+      <dt><dd>{{$ctrl.bird.sube}}</dd></dt>
+    </dl>
+  </li>
+  <li>
+    <span>Sınıf</span>
+    <dl>
+      <dt><dd>{{$ctrl.bird.sinif}}</dd></dt>
+    </dl>
+  </li>
+  <li>
+    <span>Takım</span>
+    <dl>
+      <dt><dd>{{$ctrl.bird.takim}}</dd></dt>
+    </dl>
+  </li>
+  <li>
+    <span>Familya</span>
+    <dl>
+      <dt><dd>{{$ctrl.bird.familya}}</dd></dt>
+    </dl>
+  </li>
+  <li>
+    <span>Cins</span>
+    <dl>
+      <dt><dd>{{$ctrl.bird.cins}}</dd></dt>
+    </dl>
+  </li>
+  <li>
+    <span>Tür</span>
+    <dl>
+      <dt><dd>{{$ctrl.bird.tur}}</dd></dt>
+    </dl>
+  </li>
+</ul>

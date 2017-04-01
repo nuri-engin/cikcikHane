@@ -1,0 +1,19 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Carduelis",
+    "tur": "C. chloris",
+    "description": "Ağaçlar veya çalılıklarda yuva yapar, 3-8 yumurta bırakır. Üreme mevsimleri dışında gruplar oluşturan fluryaların başlıca besini tohumdur. 14 cm uzunluğundaki floryaların erkekleri dişilerinden daha iri, renkleri daha göz alıcıdır. Dişi ve genç kuşlar, daha soluktur ve kahverengi tonlar hakimdir. Gagası, kalın ve koni biçimindedir. Ötüşleri de oldukça güzel ve cıvıltılıdır. Erkeğin, kelebek gösteri uçuşu vardır.",
+    "id": "florya",
+    "images": [
+        "img/ispinoz/florya/01.jpg",
+        "img/ispinoz/florya/02.jpg",
+        "img/ispinoz/florya/03.jpg",
+        "img/ispinoz/florya/04.jpg",
+        "img/ispinoz/florya/05.jpg"
+    ],
+    "name": "Florya"
+}

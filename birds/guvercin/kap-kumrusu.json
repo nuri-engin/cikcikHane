@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Columbiformes (Güvercinler)",
+  "familya": "Columbidae (Güvercingiller)",
+  "cins": "Oena",
+  "tur": "O. capensis",
+  "binominal": 1766,
+  "description": "Bu tür, akasya ve çalılıklarla yakın çölde bulunur. Bir çalılıkta bir delik yuva inşa eder ve 16 gün boyunca dişi tarafından kuluçkaya yatırılan iki beyaz yumurtayı koyarlar. Yiyecek, otlar, sazlar ve yaban otunun tohumları gibi neredeyse sadece küçük tohumlardır. Çok toplu halde yaşayan değildirler ve genellikle yalnız veya çiftler halindedirler ama su çukurlarında daha büyük sürüleri oluşturur.",
+  "id": "kap-kumrusu",
+  "images": [
+    "img/guvercin/kap-kumrusu/01-kap-kumrusu.jpg",
+    "img/guvercin/kap-kumrusu/02.JPG",
+    "img/guvercin/kap-kumrusu/03.jpg",
+    "img/guvercin/kap-kumrusu/04.jpg",
+    "img/guvercin/kap-kumrusu/05.jpg",
+    "img/guvercin/kap-kumrusu/06.jpg"
+  ],
+  "name": "Kap kumrusu"
+
+}

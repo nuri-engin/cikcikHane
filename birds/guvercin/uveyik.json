@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Columbiformes (Güvercinler)",
+  "familya": "Columbidae (Güvercingiller)",
+  "cins": "Streptopelia",
+  "tur": "S. turtur",
+  "binominal": 1758,
+  "description": "Üveyik (Streptopelia turtur), güvercingiller (Columbidae) familyasından eti için avlanan bir av kuşu türü. Bıldırcın gibi göçmen bir kuştur. Trakya'ya Nisandan itibaren gelirler, Eylülden itibaren de güneye göç ederler. Ayçiçeği tanesi ile beslenirler.",
+  "id": "uveyik",
+  "images": [
+    "img/guvercin/uveyik/01-uveyik.jpg",
+    "img/guvercin/uveyik/02.JPG",
+    "img/guvercin/uveyik/03.jpg",
+    "img/guvercin/uveyik/04.jpg",
+    "img/guvercin/uveyik/05.jpg",
+    "img/guvercin/uveyik/06.jpg"
+  ],
+  "name": "Üveyik"
+
+}

@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Motacilla (Kuyruksallayan)",
+  "tur": "M. cinerea",
+  "binominal": 1771,
+  "description": "Sarı kuyruksallayan ve ak kuyruksallayandan (Motacilla alba) farklı olarak, gri sırtıyla birleşen sarı kuyrukaltı ve sarı-yeşil kuyruk sokumuna sahiptir. Yazın erkeğin boğazı siyah, göğsü parlak sarıdır. Uzun kuyruğunun yanları beyazdır. Geniş, beyaz kanat çizgisi alttan belirgin olarak görülür.",
+  "id": "dag-kuyruksallayan",
+  "images": [
+    "img/kuyruksallayan/dag-kuyruksallayan/01-dag-kuyruksallayan.jpg",
+    "img/kuyruksallayan/dag-kuyruksallayan/02.JPG",
+    "img/kuyruksallayan/dag-kuyruksallayan/03.jpg",
+    "img/kuyruksallayan/dag-kuyruksallayan/04.jpg",
+    "img/kuyruksallayan/dag-kuyruksallayan/05.jpg",
+    "img/kuyruksallayan/dag-kuyruksallayan/06.jpg"
+  ],
+  "name": "Dağ kuyruksallayan"
+
+}

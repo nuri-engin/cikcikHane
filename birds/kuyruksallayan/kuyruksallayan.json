@@ -1,0 +1,79 @@
+[
+  {
+    "binominal": 1818,
+    "id": "richard-incir-kusu",
+    "imageUrl": "img/kuyruksallayan/richard-incir-kusu/01-richard_incir.jpg",
+    "name": "Richard incir kuşu",
+    "snippet": "Richard incir kuşu (Anthus richardi), kuyruksallayangiller (Motacillidae) familyasından orta büyüklükte bir incir kuşu türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "kir-incir-kusu",
+    "imageUrl": "img/kuyruksallayan/kir-incir-kusu/02-kir_incir.jpg",
+    "name": "Kır incir kuşu",
+    "snippet": "Kır incir kuşu (Anthus campestris), kuyruksallayangiller (Motacillidae) familyasından bir incir kuşu türü."
+  },
+  {
+    "binominal": 1758,
+    "id": "agac-incir-kusu",
+    "imageUrl": "img/kuyruksallayan/agac-incir-kusu/03-agac_incir.jpg",
+    "name": "Ağaç incir kuşu",
+    "snippet": "Ağaç incir kuşu (Anthus trivialis), kuyruksallayangiller (Motacillidae) familyasından küçük bir incir kuşu türüdür."
+  },
+  {
+    "binominal": 1758,
+    "id": "cayir-incir-kusu",
+    "imageUrl": "img/kuyruksallayan/cayir-incir-kusu/01-cayir-incir-kusu.jpg",
+    "name": "Çayır incir kuşu",
+    "snippet": "Çayır incir kuşu (Anthus pratensis), ötücü kuşlardan, Kuzey Avrupa ve Asya'nın büyük bir bölümüne dağılmış olan bir kuş türü."
+  },
+  {
+    "binominal": 1907,
+    "id": "yesil-sirtli-incir-kusu",
+    "imageUrl": "img/kuyruksallayan/yesil-sirtli-incir-kusu/01-yesil-sirtli-incir-kusu.jpg",
+    "name": "Yeşil sırtlı incir kuşu",
+    "snippet": "Yeşil sırtlı incir kuşu (Anthus hodgsoni), kuyruksallayangiller familyasından küçük bir incir kuşu türüdür."
+  },
+  {
+    "binominal": 1811,
+    "id": "kizil-gerdanli-incir-kusu",
+    "imageUrl": "img/kuyruksallayan/kizil-gerdanli-incir-kusu/01-kizil-gerdanli-incir-kusu.jpg",
+    "name": "Kızıl gerdanlı incir kuşu",
+    "snippet": "Kızıl gerdanlı incir kuşu (Anthus cervinus), kuyruksallayangiller (Motacillidae) familyasından küçük bir incir kuşu türüdür."
+  },
+  {
+    "binominal": 1758,
+    "id": "dag-incir-kusu",
+    "imageUrl": "img/kuyruksallayan/dag-incir-kusu/01-dag-incir-kusu.jpg",
+    "name": "Dağ incir kuşu",
+    "snippet": "Dağ incir kuşu (Anthus spinoletta), kuyruksallayangiller (Motacillidae) familyasından sulak bölgeleri seven, küçük bir incir kuşu türüdür."
+  },
+  {
+    "binominal": 1758,
+    "id": "sari-kuyruksallayan",
+    "imageUrl": "img/kuyruksallayan/sari-kuyruksallayan/01-sari-kuyruksallayan.jpg",
+    "name": "Sarı kuyruksallayan",
+    "snippet": "Sarı kuyruksallayan (Motacilla flava), kuyruksallayangiller (Motacillidae) familyasından bir kuyruksallayan türü."
+  },
+  {
+    "binominal": 1776,
+    "id": "sari-basli-kuyruksallayan",
+    "imageUrl": "img/kuyruksallayan/sari-basli-kuyruksallayan/01-sari-basli-kuyruksallayan.jpg",
+    "name": "Sarı başlı kuyruksallayan",
+    "snippet": "Sarı başlı kuyruksallayan (Motacilla citreola), kuyruksallayangiller (Motacillidae) familyasından uzun kuyruklu bir kuş türüdür."
+  },
+  {
+    "binominal": 1771,
+    "id": "dag-kuyruksallayan",
+    "imageUrl": "img/kuyruksallayan/dag-kuyruksallayan/01-dag-kuyruksallayan.jpg",
+    "name": "Dağ kuyruksallayanı",
+    "snippet": "Dağ kuyruksallayanı (Motacilla cinerea), kuyruksallayangiller (Motacillidae) familyasından dağlık bölgelerde yaşayan bir kuş türüdür."
+  },
+  {
+    "binominal": 1758,
+    "id": "ak-kuyruksallayan",
+    "imageUrl": "img/kuyruksallayan/ak-kuyruksallayan/01-ak-kuyruksallayan.jpg",
+    "name": "Ak kuyruksallayanı",
+    "snippet": "Ak kuyruksallayan (Motacilla alba), kuyruksallayangiller (Motacillidae) familyasından beyaz renkli bir kuyruksallayan türüdür."
+  }
+]

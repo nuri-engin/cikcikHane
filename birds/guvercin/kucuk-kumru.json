@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Columbiformes (Güvercinler)",
+  "familya": "Columbidae (Güvercingiller)",
+  "cins": "Streptopelia",
+  "tur": "S. senegalensis",
+  "binominal": 1766,
+  "description": "Uzun kuyruklu, ince bir güvercin olup, tipik olarak 25 santimetre uzunluktadır. Arkası, kanatları ve kuyruğu kırmızımsı-kahverengidir, kanatlarda mavi-gri renkler vardır. Uçuşta, kanat altları zengin kestane rengidir. Baş, ve alt parçalar pembemsidir, daha aşağı karında beyazımsı gölgelidir. Boğazda seçilen siyah benekler vardır. Bacaklar, kırmızıdır. Eşeyler benzerdir, ama yavrular, erişkinlerden daha çok pas rengidir, ve boğazdaki benekler azdır.",
+  "id": "kucuk-kumru",
+  "images": [
+    "img/guvercin/kucuk-kumru/01-kucuk-kumru.jpg",
+    "img/guvercin/kucuk-kumru/02.JPG",
+    "img/guvercin/kucuk-kumru/03.jpg",
+    "img/guvercin/kucuk-kumru/04.jpg",
+    "img/guvercin/kucuk-kumru/05.jpg",
+    "img/guvercin/kucuk-kumru/06.jpg"
+  ],
+  "name": "Küçük kumru"
+
+}

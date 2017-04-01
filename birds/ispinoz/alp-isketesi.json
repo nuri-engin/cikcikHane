@@ -1,0 +1,20 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Carduelis",
+    "tur": "C. citrinella",
+    "description": "Uzun bir zaman Serinus cins taksonunda yer almış olsa da, görünüşte saka kuşuna daha yakındır. Bu kuş, güneydoğu Avrupa'dan İspanya'daki Alp'lere kadar olan dağlarda yerleşik olarak bulunur. Üreme dönemlerinde ise Kara orman dolaylarında bulunur.",
+    "id": "alp-isketesi",
+    "images": [
+        "img/ispinoz/alp-isketesi/01.jpg",
+        "img/ispinoz/alp-isketesi/02.jpg",
+        "img/ispinoz/alp-isketesi/03.jpg",
+        "img/ispinoz/alp-isketesi/04.jpg",
+        "img/ispinoz/alp-isketesi/05.jpg",
+        "img/ispinoz/alp-isketesi/06.jpg"
+    ],
+    "name": "Alp isketesi"
+}

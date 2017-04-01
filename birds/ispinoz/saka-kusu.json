@@ -1,0 +1,20 @@
+{
+    "alem": "Animalia (hayvanlar)",
+    "sube": "Chordata (Kordalılar)",
+    "sinif": "Aves (Kuşlar)",
+    "takim": "Passeriformes (Ötücü Kuşlar)",
+    "familya": "Fringillidae (İspinozgiller)",
+    "cins": "Carduelis",
+    "tur": "C. carduelis",
+    "description": "Erişkinlerde gaga dibinden gözün arka ucuna kadar yayılan kırmızılığı yalnız gaga ile göz arasındaki koyu esmer bir bant keser. Gözün gerisindeki yanları beyaz, tepe ve boyun yanları siyahtır. Kanatların ortası boyunca, gövdeye doğru sarı renkli geniş bir bant uzanır. Kanatların beyaz lekeli arka kenarları dışında kalan öbür bölümleri siyah, sırt kahverengi, kuyruksokumu beyazımsıdır. Siyah kuyruk tüylerinin uçlarında da beyaz lekeler bulunur.",
+    "id": "saka-kusu",
+    "images": [
+        "img/ispinoz/saka-kusu/01.jpg",
+        "img/ispinoz/saka-kusu/02.jpg",
+        "img/ispinoz/saka-kusu/03.jpg",
+        "img/ispinoz/saka-kusu/04.jpg",
+        "img/ispinoz/saka-kusu/05.jpg",
+        "img/ispinoz/saka-kusu/06.jpg"
+    ],
+    "name": "Florya"
+}

@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Passeriformes (Ötücü kuşlar)",
+  "familya": "Motacillidae (Kuyruksallayangiller)",
+  "cins": "Motacilla (Kuyruksallayan)",
+  "tur": "M. flava",
+  "binominal": 1758,
+  "description": "Erkeğinin alt tarafı parlak sarı, üst tarafı yeşilimsi, kanatları koyu renk, kanat çizgileri ise açık renktir. Dişileri daha mattır, üst tarafı yeşilimsi (bazılarının oldukça gri), alt tarafı kremdir ve kuyrukaltı daha sarıdır. Gençler daha kahverengi, alt tarafı ise uçuk kahverengidir ve kolyeyi andıran göğüs kuşağı, göz çizgisi ve bıyığı koyu renktir, gözünün üstünde açık renk bir çizgi vardır.",
+  "id": "sari-kuyruksallayan",
+  "images": [
+    "img/kuyruksallayan/sari-kuyruksallayan/01-sari-kuyruksallayan.jpg",
+    "img/kuyruksallayan/sari-kuyruksallayan/02.JPG",
+    "img/kuyruksallayan/sari-kuyruksallayan/03.jpg",
+    "img/kuyruksallayan/sari-kuyruksallayan/04.jpg",
+    "img/kuyruksallayan/sari-kuyruksallayan/05.jpg",
+    "img/kuyruksallayan/sari-kuyruksallayan/06.jpg"
+  ],
+  "name": "Sarı kuyruksallayan"
+
+}

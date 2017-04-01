@@ -1,0 +1,22 @@
+{
+  "alem": "Animalia (Hayvanlar)",
+  "sube": "Chordata (Kordalılar)",
+  "sinif": "Aves (Kuşlar)",
+  "takim": "Columbiformes (Güvercinler)",
+  "familya": "Columbidae (Güvercingiller)",
+  "cins": "Streptopelia",
+  "tur": "Streptopelia decaocto",
+  "binominal": 1838,
+  "description": "Kumru teriminin teknik bir önemi yoktur. Güvercin adı genellikle daha iri, tombul, kuyrukları küt ya da yuvarlak cinslere, kumru adı ise daha küçük ve zarif, sivri kuyruklu türlere verilir. Genellikle kahverengi tüylüdür. Şeklen güvercine benzemekle beraber, ondan daha küçük ve zarif yapılıdırlar.",
+  "id": "kumru",
+  "images": [
+    "img/guvercin/kumru/01-kumru.jpg",
+    "img/guvercin/kumru/02.JPG",
+    "img/guvercin/kumru/03.jpg",
+    "img/guvercin/kumru/04.jpg",
+    "img/guvercin/kumru/05.jpg",
+    "img/guvercin/kumru/06.jpg"
+  ],
+  "name": "Kumru"
+
+}

@@ -1,0 +1,15 @@
+Arama: <input ng-model="$ctrl.query" />
+Sırala: <select ng-model="$ctrl.orderProp">
+  <option value="name">İsme göre</option>
+  <option value="binominal">Binominal Tarihe göre</option>
+</select>
+<hr />
+<ul class="birds">
+  <li ng-repeat="bird in $ctrl.birds | filter:$ctrl.query | orderBy:$ctrl.orderProp" class="thumbnail bird-list-item">
+    <a href="#!/birds/ispinoz/{{bird.id}}" class="thumb">
+      <img ng-src="{{bird.imageUrl}}" alt="{{bird.name}}" />
+    </a>
+    <a href="#!/birds/ispinoz/{{bird.id}}">{{bird.name}}</a>
+    <p>{{bird.snippet}} <br><i><small>(Binominal tarihleme: {{bird.binominal}})</small></i></p>
+  </li>
+</ul>
